@@ -8,7 +8,7 @@ See current status of paper here:
 Continuous integration thanks to Dan Foreman-Mackey's [blog post](https://dfm.io/posts/travis-latex/)
 
 Problems that are solved:
-* Missing Sattelite problem
+* Missing satellite problem
 * Missing baryon problem
 * Core-cusp problem
 * Too big to fail problem
