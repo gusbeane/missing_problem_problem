@@ -3,6 +3,10 @@ With all problems in astronomy solved, we are now faced with a missing problem p
 
 Begun at AAS Hack Together Day 2019 (AAS233)
 
+See current status of paper here:
+
+Continuous integration thanks to Dan Foreman-Mackey's [blog post](https://dfm.io/posts/travis-latex/)
+
 Problems that are solved:
 * Missing Sattelite problem
 * Missing baryon problem
